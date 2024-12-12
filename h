@@ -1,1 +1,1 @@
-sex.ksr.lol:5050
+abolhb.com:5050
