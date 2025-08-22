@@ -1,1 +1,1 @@
-microsoft-365-updater.duckdns.org:5552
+193.161.193.99:26891
